@@ -1,0 +1,10 @@
+venv/
+env/
+__pycache__/
+
+node_modules/
+dist/
+build/
+
+.vscode/
+!.vscode/extensions.json
