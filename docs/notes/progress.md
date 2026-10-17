@@ -8,4 +8,8 @@
 - Created pharmacy-management-db Database in phpmyadmin
 - Initial push
 
-## Day 1 — 17-10-2026
+## Day 1: 17-10-2026 
+- Database design for 4 Entity (Designation, Role, User (is_staff=True -> Staff), Medicine)
+- Created 'pharmacy' djangoproject
+- Created 'accounts' app for 'Designation, Role and User (if is_staff=True then Staff)
+- Created 'medicines' app for 'Medicine'
