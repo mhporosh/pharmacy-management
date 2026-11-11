@@ -1,10 +1,27 @@
+# Python
 venv/
 env/
+.venv/
 __pycache__/
+*.py[cod]
 
+# Django / Database
+db.sqlite3
+*.sqlite3
+
+# Node
 node_modules/
 dist/
 build/
 
+# IDE
 .vscode/
+.idea/
 !.vscode/extensions.json
+
+# Documentation / Personal files
+docs/
+
+# Environment variables
+.env
+.env.*
